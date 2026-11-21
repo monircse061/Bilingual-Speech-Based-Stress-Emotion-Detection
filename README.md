@@ -282,7 +282,7 @@ As code, analysis notebooks, and verified result figures become available, add t
 
 ## 9. Repository organization
 
-The repository currently serves as a documentation and project-material repository. A suggested structure for the next development stage is:
+The repository will serve as a documentation and project-material repository (still working on the project). A prospective structure for the next development stage is:
 
 ```text
 Bilingual-Speech-Based-Stress-Emotion-Detection/
